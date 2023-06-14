@@ -1,0 +1,56 @@
+.logo-eikonica {
+  width: 202px;
+  border-right: solid black 3px;
+  padding: 20px;
+}
+
+.nav-container {
+  z-index: 10;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  border: solid black 3px;
+  position: fixed;
+  width: 100%;
+}
+
+.nav-frist-element {
+  display: flex;
+  justify-content: center;
+  line-height: 45px;
+}
+
+header a {
+  font-size: 27px;
+  text-decoration: none;
+}
+
+.nav-frist-element a {
+  margin: 15px 0px 5px 24px;
+  // line-height: 0;
+}
+
+// .nav-second-element {
+//   padding: 15px 0px 15px 0px;
+// }
+
+// .nav-second-element a {
+//   padding-right: 24px;
+// }
+
+.menu-wrapper {
+  margin-left: 20px;
+}
+// .nav-frist-element {
+//   padding: 10px;
+// }
+
+.nav-spacer {
+  padding-right: 80px;
+}
+
+.test {
+  padding-right: 24px;
+}

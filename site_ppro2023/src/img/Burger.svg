@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="45px" viewBox="0 0 72 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Burger</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Homepage" transform="translate(-1353.000000, -78.000000)" fill="#000000">
+            <g id="Nav" transform="translate(-0.924967, 57.764286)">
+                <g id="Burger" transform="translate(1353.924967, 20.235714)">
+                    <polygon id="Fill-1" points="0 0 0 7 63 7 56.0387711 0"></polygon>
+                    <polygon id="Fill-2" points="0 12 0 19 68.6953697 19 72 15.6524811 68.3941879 12"></polygon>
+                    <polygon id="Fill-3" points="1 26 1 33 60.9876253 33 60.9876253 29.0442463 64 26"></polygon>
+                    <polygon id="Fill-4" points="0 45 60 45 60 38 0 38"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
