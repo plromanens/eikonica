@@ -1,0 +1,27 @@
+.banner {
+  overflow: hidden;
+  background-color: black;
+  color: white;
+  white-space: nowrap;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  position: absolute;
+  top: 74px;
+  width: 100%;
+}
+
+.banner-text {
+  display: inline-block;
+  padding-left: 30%;
+  animation: scroll-left 15s linear infinite;
+}
+
+@keyframes scroll-left {
+  from {
+    transform: translateX(120vw);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
