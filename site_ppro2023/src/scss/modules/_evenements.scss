@@ -1,0 +1,38 @@
+.exhibitions-box {
+  margin: 0 15px 0 15px;
+  position: relative;
+}
+
+.exhibitions-title {
+  position: absolute;
+  top: 12px;
+  left: 55px;
+  margin: 0;
+}
+
+.exhibitions-name-title {
+  position: absolute;
+  top: 139px;
+  left: 55px;
+}
+
+.number-event {
+  color: #00ff25;
+}
+
+.text-event {
+  position: absolute;
+  top: 240px;
+  left: 55px;
+  font-family: AreaNormal-Regular;
+  font-size: 22px;
+  color: #ffffff;
+  letter-spacing: 0.4px;
+  padding-right: 445px;
+}
+
+.info-event {
+  position: absolute;
+  top: 480px;
+  right: 447px;
+}

@@ -1,5 +1,10 @@
 .about-background {
   background-color: blue;
+  border-bottom: solid black 3px;
+  font-family: AreaNormal-Regular;
+  font-size: 22px;
+  color: #ffffff;
+  letter-spacing: 0;
 }
 
 .about-background h2 {
@@ -8,5 +13,12 @@
 
 .about-background p {
   color: white;
-  padding: 99px 350px 207px 350px;
+}
+
+.about_first_paragraph {
+  padding: 167px 350px 20px 350px;
+}
+
+.about_second_paragraph {
+  padding: 20px 350px 251px 350px;
 }
