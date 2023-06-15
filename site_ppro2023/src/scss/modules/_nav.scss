@@ -1,7 +1,7 @@
 .logo-eikonica {
-  width: 202px;
-  border-right: solid black 3px;
-  padding: 20px;
+  width: 14.028vw;
+  border-right: solid black 0.208vw;
+  padding: 1.389vw;
 }
 
 .nav-container {
@@ -11,7 +11,7 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  border: solid black 3px;
+  border: solid black 0.208vw;
   position: fixed;
   width: 100%;
   background-color: #e9e9e9;
@@ -20,38 +20,26 @@
 .nav-frist-element {
   display: flex;
   justify-content: center;
-  line-height: 45px;
+  line-height: 3.125vw;
 }
 
 header a {
-  font-size: 27px;
+  font-size: 1.875vw;
   text-decoration: none;
 }
 
 .nav-frist-element a {
-  margin: 15px 0px 5px 24px;
-  // line-height: 0;
+  margin: 1.042vw 0 0.347vw 1.667vw;
 }
-
-// .nav-second-element {
-//   padding: 15px 0px 15px 0px;
-// }
-
-// .nav-second-element a {
-//   padding-right: 24px;
-// }
 
 .menu-wrapper {
-  margin-left: 20px;
+  margin-left: 1.389vw;
 }
-// .nav-frist-element {
-//   padding: 10px;
-// }
 
 .nav-spacer {
-  padding-right: 80px;
+  padding-right: 5.556vw;
 }
 
 .element-programme {
-  padding-right: 24px;
+  padding-right: 1.667vw;
 }

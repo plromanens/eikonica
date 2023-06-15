@@ -1,19 +1,19 @@
 .exhibitions-box {
-  margin: 0 15px 0 15px;
+  margin: 0 1.042vw 0 1.042vw;
   position: relative;
 }
 
 .exhibitions-title {
   position: absolute;
-  top: 12px;
-  left: 55px;
+  top: 0.833vw;
+  left: 3.819vw;
   margin: 0;
 }
 
 .exhibitions-name-title {
   position: absolute;
-  top: 139px;
-  left: 55px;
+  top: 9.653vw;
+  left: 3.819vw;
 }
 
 .number-event {
@@ -22,17 +22,47 @@
 
 .text-event {
   position: absolute;
-  top: 240px;
-  left: 55px;
+  top: 16.667vw;
+  left: 3.819vw;
   font-family: AreaNormal-Regular;
-  font-size: 22px;
+  font-size: 1.528vw;
   color: #ffffff;
-  letter-spacing: 0.4px;
-  padding-right: 445px;
+  letter-spacing: 0.028vw;
+  padding-right: 30.903vw;
 }
 
 .info-event {
   position: absolute;
-  top: 480px;
-  right: 447px;
+  top: 33.333vw;
+  right: 31.042vw;
+}
+
+// .element-form {
+//   position: absolute;
+//   bottom: 0;
+//   left: 0;
+// }
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container img {
+  display: block;
+  width: 300px; /* Ajustez la largeur selon vos besoins */
+  height: auto;
+}
+
+.image-container .hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image-container:hover .hover-image {
+  display: block;
+  opacity: 1;
 }

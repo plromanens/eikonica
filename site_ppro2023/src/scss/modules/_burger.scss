@@ -4,28 +4,28 @@
 }
 
 .burger-menu {
-  width: 72px;
-  height: 72px;
+  width: 5vw;
+  height: 5vw;
   cursor: pointer;
   position: absolute;
-  top: -30px;
-  right: 10px;
+  top: -2.083vw;
+  right: 0.694vw;
 }
 
 .links {
   position: absolute;
-  top: 31px;
+  top: 2.153vw;
   right: 0;
-  width: 200px;
+  width: 13.889vw;
   background-color: #d8d8d8;
-  padding: 10px;
+  padding: 0.694vw;
   display: none;
-  font-size: 27px;
+  font-size: 1.875vw;
 }
 
 .links a {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 0.347vw;
   text-decoration: none;
   color: #333;
 }
