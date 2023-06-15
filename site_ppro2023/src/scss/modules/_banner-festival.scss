@@ -13,15 +13,16 @@
 
 .banner-text {
   display: inline-block;
-  padding-left: 30%;
-  animation: scroll-left 15s linear infinite;
+  padding-left: 70px;
+  animation: scroll-left 8s linear infinite;
 }
 
 @keyframes scroll-left {
-  from {
-    transform: translateX(120vw);
+  0% {
+    transform: translateX(0%);
   }
-  to {
-    transform: translateX(0);
+
+  100% {
+    transform: translateX(-100%);
   }
 }
