@@ -31,3 +31,17 @@ bouton.addEventListener("click", function () {
     maDiv.classList.remove("hidden");
   }
 });
+
+var bouton = document.getElementById("bouton");
+var maDiv = document.getElementById("maDiv");
+
+bouton.addEventListener("click", function () {
+  bouton.classList.toggle("image11");
+  bouton.classList.toggle("image22");
+
+  if (bouton.classList.contains("image11")) {
+    maDiv.classList.add("hidden");
+  } else {
+    maDiv.classList.remove("hidden");
+  }
+});

@@ -1,0 +1,93 @@
+.workshop-box {
+  margin: 0 1.042vw 0 1.042vw;
+  position: relative;
+}
+
+.workshop-title {
+  position: absolute;
+  top: 0.833vw;
+  left: 3.819vw;
+  margin: 0;
+  color: #000000;
+}
+
+.workshop-name-title {
+  position: absolute;
+  top: 9.653vw;
+  left: 3.819vw;
+}
+
+.number-event {
+  color: #00ff25;
+}
+
+.workshop-box .info-event {
+  color: #000000;
+}
+
+.workshop-box h3 {
+  color: #000000;
+}
+
+.workshop-box .text-event {
+  position: absolute;
+  top: 16.667vw;
+  left: 3.819vw;
+  font-family: AreaNormal-Regular;
+  font-size: 1.528vw;
+  color: #000000;
+  letter-spacing: 0.028vw;
+  padding-right: 30.903vw;
+}
+
+.info-event {
+  position: absolute;
+  top: 33.333vw;
+  right: 31.042vw;
+}
+
+.info-event-second {
+  color: #000000;
+  position: absolute;
+  top: 36.333vw;
+  right: 31.042vw;
+}
+
+.info-event-third {
+  color: #000000;
+  position: absolute;
+  top: 33.333vw;
+  right: 73.042vw;
+}
+
+// .image-container {
+//   position: relative;
+//   display: inline-block;
+// }
+
+.image-container img {
+  display: block;
+  width: 300px; /* Ajustez la largeur selon vos besoins */
+  height: auto;
+}
+
+.image-container .hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image-container:hover .hover-image {
+  display: block;
+  opacity: 1;
+}
+
+.small-forme {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  width: 11.319vw;
+}
