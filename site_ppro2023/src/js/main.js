@@ -17,3 +17,17 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+var bouton = document.getElementById("bouton");
+var maDiv = document.getElementById("maDiv");
+
+bouton.addEventListener("click", function () {
+  bouton.classList.toggle("image1");
+  bouton.classList.toggle("image2");
+
+  if (bouton.classList.contains("image1")) {
+    maDiv.classList.add("hidden");
+  } else {
+    maDiv.classList.remove("hidden");
+  }
+});

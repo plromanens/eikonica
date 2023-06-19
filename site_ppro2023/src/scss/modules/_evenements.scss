@@ -37,11 +37,6 @@
   right: 31.042vw;
 }
 
-// .element-form {
-//   position: absolute;
-//   bottom: 0;
-//   left: 0;
-// }
 .image-container {
   position: relative;
   display: inline-block;
@@ -65,4 +60,30 @@
 .image-container:hover .hover-image {
   display: block;
   opacity: 1;
+}
+
+.image1 {
+  position: absolute;
+  bottom: 1.319vw;
+  left: 3.819vw;
+  background-image: url("/src/img/forme_expo_1_violet.svg");
+  width: 22.014vw;
+  height: 13.889vw;
+  background-size: 14.861vw;
+  background-repeat: no-repeat;
+}
+
+.image2 {
+  position: absolute;
+  bottom: 1.319vw;
+  left: 3.819vw;
+  background-image: url("/src/img/forme_expo_1_verte.svg");
+  width: 22.014vw;
+  height: 13.889vw;
+  background-size: 14.861vw;
+  background-repeat: no-repeat;
+}
+
+.hidden {
+  display: none;
 }
