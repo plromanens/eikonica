@@ -78,15 +78,15 @@ h4 {
 
 .bouton-more {
   background: #10ff00;
-  border: 3px solid #000000;
+  border: 0.208vw solid #000000;
   font-family: AreaNormal-Regular;
-  font-size: 27px;
+  font-size: 1.875vw;
   color: #000000;
   letter-spacing: 0;
   text-align: center;
-  padding: 15px 20px;
+  padding: 1.042vw 1.389vw;
   text-decoration: none;
-  margin: 0 15px 42px 1032px;
+  margin: 0 1.042vw 2.917vw 71.667vw;
 }
 
 .bouton-more:hover {
@@ -95,8 +95,8 @@ h4 {
 }
 
 .partner-container {
-  margin: 0 15px 0 15px;
-  padding: 30px 0 30px 0;
+  margin: 0 1.042vw 0 1.042vw;
+  padding: 2.083vw 0 2.083vw 0;
   background-color: #000000;
   display: flex;
   flex-direction: row;
@@ -104,10 +104,10 @@ h4 {
 }
 
 .partner-container img {
-  height: 69px;
+  height: 4.792vw;
 }
 
 .partner {
   background-color: #000000;
-  margin-top: 61px;
+  margin-top: 4.236vw;
 }
