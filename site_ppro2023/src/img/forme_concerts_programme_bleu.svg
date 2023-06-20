@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="313px" height="138px" viewBox="0 0 313 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Num.3.programme</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Homepage" transform="translate(-560.000000, -4419.000000)">
+            <g id="Concerts" transform="translate(16.000000, 3740.180430)">
+                <g id="Num.3.programme" transform="translate(546.000000, 680.819570)">
+                    <polygon id="Path-5" stroke="#FFFFFF" stroke-width="3" fill="#0400FF" points="0 -1.32491168e-18 0 134 272.453513 134 309.109586 97.3439274 309.109586 26.0701157 283.03947 -3.67624334e-13"></polygon>
+                    <text id="Programme" font-family="AreaNormal-Bold, Area Normal" font-size="43" font-weight="bold" line-spacing="46" letter-spacing="0.785576923" fill="#5DFF00">
+                        <tspan x="11" y="86">Programme</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

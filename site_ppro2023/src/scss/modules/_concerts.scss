@@ -1,20 +1,26 @@
-.workshop-box {
+.concerts-box {
   margin: 0 1.042vw 0 1.042vw;
   position: relative;
   margin-top: 1.389vw;
 }
 
-.workshop-title {
+.concerts-title {
   position: absolute;
   top: 0.833vw;
   left: 3.819vw;
   margin: 0;
-  color: #000000;
+  color: #ffffff;
 }
 
-.workshop-name-title {
+.concerts-name-title {
   position: absolute;
   top: 9.653vw;
+  left: 3.819vw;
+}
+
+.concerts-name-title-second {
+  position: absolute;
+  top: 12.653vw;
   left: 3.819vw;
 }
 
@@ -22,39 +28,42 @@
   color: #00ff25;
 }
 
-.workshop-box h3 {
-  color: #000000;
+.concerts-box .info-event {
+  color: #ffffff;
 }
 
-.workshop-box .text-event {
+.concerts-box h3 {
+  color: #ffffff;
+}
+
+.concerts-box .text-event {
   position: absolute;
-  top: 16.667vw;
+  top: 19vw;
   left: 3.819vw;
   font-family: AreaNormal-Regular;
   font-size: 1.528vw;
-  color: #000000;
+  color: #ffffff;
   letter-spacing: 0.028vw;
   padding-right: 30.903vw;
 }
 
-.workshop-box .info-event {
-  color: #000000;
+.concerts-box .info-event {
   position: absolute;
-  top: 26.333vw;
+  top: 30.333vw;
   right: 31.042vw;
 }
 
-.workshop-box .info-event-second {
-  color: #000000;
+.concerts-box .info-event-second {
+  color: #ffffff;
   position: absolute;
-  top: 29.333vw;
+  top: 33.333vw;
   right: 31.042vw;
 }
 
-.workshop-box .info-event-third {
-  color: #000000;
+.concerts-box .info-event-third {
+  color: #ffffff;
   position: absolute;
-  top: 26.333vw;
+  top: 30.333vw;
   right: 74.042vw;
 }
 
