@@ -87,7 +87,7 @@ h4 {
   text-align: center;
   padding: 1.042vw 1.389vw;
   text-decoration: none;
-  margin: 0 1.042vw 2.917vw 71.667vw;
+  // margin: 0 1.042vw 2.917vw 71.667vw;
 }
 
 .bouton-more:hover {
@@ -111,4 +111,11 @@ h4 {
 .partner {
   background-color: #000000;
   margin-top: 4.236vw;
+}
+
+.bouton-more-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 1.042vw;
 }

@@ -63,7 +63,7 @@ header a {
 
 .first-nav a {
   font-family: DANSON-BOLD;
-  font-size: 31px;
+  font-size: 2.153vw;
   color: #000000;
   letter-spacing: 0;
 }
@@ -74,23 +74,27 @@ header a {
 
 .first-nav p {
   font-family: DANSON-BOLD;
-  font-size: 31px;
+  font-size: 2.153vw;
   color: #000000;
   letter-spacing: 0;
 }
 
 .first-nav-element {
   position: fixed;
-  right: 15px;
+  right: 1.042vw;
 }
 
 .first-nav-element a {
   font-family: AreaNormal-Regular;
-  font-size: 27px;
+  font-size: 1.875vw;
   color: #000000;
   letter-spacing: 0;
 }
 
 .account {
-  margin-left: 15px;
+  margin-left: 1.042vw;
+}
+
+footer a {
+  text-decoration: none;
 }
